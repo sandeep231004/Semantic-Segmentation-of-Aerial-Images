@@ -82,11 +82,11 @@ Clear and accurate segmentation outputs visualized for different classes, showca
 
 This project has broad applications, including:
 
-Urban Planning: Mapping buildings, roads, and vegetation to aid in city planning and infrastructure development.
+_**Urban Planning:**_ Mapping buildings, roads, and vegetation to aid in city planning and infrastructure development.
 
-Environmental Monitoring: Tracking vegetation and water bodies to assess environmental changes over time.
+_**Environmental Monitoring:**_ Tracking vegetation and water bodies to assess environmental changes over time.
 
-Disaster Management: Identifying affected areas post-disaster, such as flooded regions or damaged structures.
+_**Disaster Management:**_ Identifying affected areas post-disaster, such as flooded regions or damaged structures.
 
-Geospatial Analysis: Supporting geographic information systems (GIS) with high-quality segmented data.
+_**Geospatial Analysis:**_ Supporting geographic information systems (GIS) with high-quality segmented data.
 
