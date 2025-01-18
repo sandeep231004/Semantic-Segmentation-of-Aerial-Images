@@ -42,9 +42,9 @@ _**Data Augmentation:**_ Enhancing the dataset by applying transformations like 
 
 # _**Methodology**_
 
-The workflow includes:
+_The workflow includes:_
 
-Data Loading and Preprocessing:
+_Data Loading and Preprocessing:_
 
 Images are loaded and preprocessed to ensure compatibility with the segmentation models.
 
@@ -70,15 +70,15 @@ Visualizing segmented outputs to qualitatively assess performance.
 
 # _**Results**_
 
-Quantitative Metrics:
+_**Quantitative Metrics:**_
 
 Achieved high IoU and F1 scores across most classes, demonstrating the model's ability to generalize well to unseen data.
 
-Qualitative Analysis:
+_**Qualitative Analysis:**_
 
 Clear and accurate segmentation outputs visualized for different classes, showcasing the effectiveness of the approach.
 
-Applications
+# _**Applications**_
 
 This project has broad applications, including:
 
@@ -89,7 +89,4 @@ Environmental Monitoring: Tracking vegetation and water bodies to assess environ
 Disaster Management: Identifying affected areas post-disaster, such as flooded regions or damaged structures.
 
 Geospatial Analysis: Supporting geographic information systems (GIS) with high-quality segmented data.
-
-Contributing
-You can download dataset from here:
 
