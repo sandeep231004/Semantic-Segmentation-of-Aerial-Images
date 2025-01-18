@@ -1,4 +1,4 @@
-# **Semantic Segmentation of Aerial Images**
+# _**Semantic Segmentation of Aerial Images**_
 
 # _**Overview**_
 
@@ -22,7 +22,7 @@ _The dataset consists of 72 high-resolution images grouped into six tiles, each 
 
 **Unlabeled:** Represented by the color #9B9B9B
 
-Features
+# _**Features**_
 
 Pixel-level annotations for precise semantic segmentation tasks.
 
@@ -30,17 +30,17 @@ Multiple classes to capture diverse real-world scenarios in aerial imagery.
 
 Useful for urban planning, environmental monitoring, and geographic studies.
 
-Preprocessing
+# _**Preprocessing**_
 
-Key preprocessing techniques applied in this project:
+# _Key preprocessing techniques applied in this project:_
 
-Image Patchification: Breaking down large satellite images into smaller patches to reduce computational overhead and facilitate detailed analysis.
+_**Image Patchification:**_ Breaking down large satellite images into smaller patches to reduce computational overhead and facilitate detailed analysis.
 
-Normalization: Ensuring pixel values are scaled appropriately for input into neural networks.
+_**Normalization:**_ Ensuring pixel values are scaled appropriately for input into neural networks.
 
-Data Augmentation: Enhancing the dataset by applying transformations like rotation, flipping, and scaling to improve model generalization and robustness.
+_**Data Augmentation:**_ Enhancing the dataset by applying transformations like rotation, flipping, and scaling to improve model generalization and robustness.
 
-Methodology
+# _**Methodology**_
 
 The workflow includes:
 
@@ -50,25 +50,25 @@ Images are loaded and preprocessed to ensure compatibility with the segmentation
 
 Patches of fixed sizes are generated for model training and testing.
 
-Model Architecture:
+# _**Model Architecture:**_
 
 Employing deep learning architectures like U-Net for segmentation tasks, known for its encoder-decoder structure that captures fine details in images.
 
 Experimentation with other state-of-the-art models such as DeepLabV3 or FCN (Fully Convolutional Networks).
 
-Training:
+# _**Training:**_
 
 Using segmentation-specific loss functions like Dice Loss and Categorical Cross-Entropy to optimize model performance.
 
 Incorporating validation techniques to monitor performance during training and avoid overfitting.
 
-Evaluation:
+# _**Evaluation:**_
 
 Metrics like Intersection over Union (IoU) and F1 Score are used to measure model accuracy.
 
 Visualizing segmented outputs to qualitatively assess performance.
 
-Results
+# _**Results**_
 
 Quantitative Metrics:
 
