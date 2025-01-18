@@ -1,6 +1,6 @@
 # **Semantic Segmentation of Aerial Images**
 
-Overview
+_**Overview**_
 
 This project focuses on semantic segmentation of aerial images obtained from Dubai using satellite imagery. The dataset includes pixel-wise annotations, enabling segmentation into six distinct classes. The goal is to develop and evaluate models for accurately segmenting these images into meaningful regions, such as buildings, roads, vegetation, and water.
 
