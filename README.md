@@ -1,24 +1,26 @@
 # **Semantic Segmentation of Aerial Images**
 
-_**Overview**_
+# _**Overview**_
 
-This project focuses on semantic segmentation of aerial images obtained from Dubai using satellite imagery. The dataset includes pixel-wise annotations, enabling segmentation into six distinct classes. The goal is to develop and evaluate models for accurately segmenting these images into meaningful regions, such as buildings, roads, vegetation, and water.
+_This project focuses on semantic segmentation of aerial images obtained from Dubai using satellite imagery. The dataset includes pixel-wise annotations, enabling segmentation into six distinct classes. The goal is to develop and evaluate models for accurately segmenting these images into meaningful regions, such as buildings, roads, vegetation, and water._
 
-Dataset
+# _**Dataset**_
 
-The dataset consists of 72 high-resolution images grouped into six tiles, each annotated at the pixel level for semantic segmentation. The classes are as follows:
+"https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery"
 
-Building: Represented by the color #3C1098
+_The dataset consists of 72 high-resolution images grouped into six tiles, each annotated at the pixel level for semantic segmentation. The classes are as follows:_
 
-Land (unpaved area): Represented by the color #8429F6
+**Building:** Represented by the color #3C1098
 
-Road: Represented by the color #6EC1E4
+**Land (unpaved area):** Represented by the color #8429F6
 
-Vegetation: Represented by the color #FEDD3A
+**Road:** Represented by the color #6EC1E4
 
-Water: Represented by the color #E2A929
+**Vegetation:** Represented by the color #FEDD3A
 
-Unlabeled: Represented by the color #9B9B9B
+**Water:** Represented by the color #E2A929
+
+**Unlabeled:** Represented by the color #9B9B9B
 
 Features
 
@@ -90,4 +92,4 @@ Geospatial Analysis: Supporting geographic information systems (GIS) with high-q
 
 Contributing
 You can download dataset from here:
-"https://www.kaggle.com/datasets/humansintheloop/semantic-segmentation-of-aerial-imagery"
+
